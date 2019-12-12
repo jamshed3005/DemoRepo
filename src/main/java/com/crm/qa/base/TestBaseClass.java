@@ -24,6 +24,12 @@ public class TestBaseClass {
 		pr.load(fs);
 		
 	}
+	public static void username()
+	{
+		System.out.println("jamshed khan");
+	}
+	
+
 	
 	public static void initialization()
 	{
